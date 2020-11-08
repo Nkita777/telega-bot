@@ -1,0 +1,5 @@
+print("hello world")
+print("hello Nikita")
+print("привет гений")
+print(18463857+974392674936)
+print("boom"+"bam")
