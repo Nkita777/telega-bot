@@ -50,25 +50,29 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state width="1308" height="2" key="GridCell.Tab.0.bottom" timestamp="1606640374528">
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom" timestamp="1607245239411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606640374528" />
-    <state width="1308" height="2" key="GridCell.Tab.0.center" timestamp="1606640374528">
+    <state width="1345" height="154" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607245239411" />
+    <state width="1345" height="154" key="GridCell.Tab.0.center" timestamp="1607245239411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606640374528" />
-    <state width="1308" height="2" key="GridCell.Tab.0.left" timestamp="1606640374528">
+    <state width="1345" height="154" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607245239411" />
+    <state width="1345" height="154" key="GridCell.Tab.0.left" timestamp="1607245239411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606640374528" />
-    <state width="1308" height="2" key="GridCell.Tab.0.right" timestamp="1606640374528">
+    <state width="1345" height="154" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607245239411" />
+    <state width="1345" height="154" key="GridCell.Tab.0.right" timestamp="1607245239411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606640374528" />
+    <state width="1345" height="154" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607245239411" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1606638744534">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606638744534" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607239445880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607239445880" />
   </component>
 </project>
